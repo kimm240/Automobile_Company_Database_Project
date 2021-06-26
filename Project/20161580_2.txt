@@ -1,0 +1,1 @@
+DROP TABLE brand, company_owned_manufacturing_plants, customers, customer_of_vehicle, dealers, option_list_for_model, models, options, own_plant_for_model, supplier, supplier_for_model, supplier_for_vehicle, vehicle_list_for_dealer, vehicles;
