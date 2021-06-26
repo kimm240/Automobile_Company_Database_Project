@@ -4,7 +4,7 @@
 
 2. The Queries listed below are those that your client wants turned in. We should execute these queries within MySQL DBMS what you managed.
 
-## _Query_Lists_
+## _Query_List_
 (TYPE 1) Show the sales trends for a particular brand over the past k years.
 
 
