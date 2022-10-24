@@ -1,4 +1,4 @@
-# Automobile_Company_Database_Sogang
+# Automobile_Company_Database_Project
 ## _For What?_
 1. The application is for an automobile company. In out 'hypothetical' company, it has been decided to redesign a major part of the database that underlies company operations.
 
